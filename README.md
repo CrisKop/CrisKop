@@ -40,7 +40,7 @@
 <div align="center">
   <h2>🐍 Mis contrubuciones 🐍</h2>
   <br>
-  <img alt="notloading" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=criskop&theme=transparent" />
+  <img alt="notloading" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=criskop&theme=nord_dark" />
   
   <br/><br/><br/>
 </div>
